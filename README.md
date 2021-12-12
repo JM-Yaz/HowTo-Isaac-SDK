@@ -1,0 +1,1 @@
+In this HowTo I attempt to explain fundamental concepts for robotics enthusiasts who are just starting with Isaac SDK. I tried to clarify everything as much as possible in [this wiki](https://github.com/JM-Yaz/HowTo-Isaac-SDK/wiki). This mainly covers how to understand the Bazel tool used to build projects in Isaac as well as creating components within this framework.
